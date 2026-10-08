@@ -1,0 +1,21 @@
+id,task,category,priority,created_at,due_date,status,completed_at
+1,Python Assignment,Study,High,2026-09-28 09:00,2026-10-02,Completed,2026-09-28 12:30
+2,Team Meeting,Work,Medium,2026-09-29 10:00,2026-09-30,Completed,2026-09-29 11:00
+3,Gym Session,Health,Medium,2026-09-30 07:30,2026-09-30,Completed,2026-09-30 09:00
+4,Project Research,Project,High,2026-09-30 13:00,2026-10-05,Pending,
+5,Read CN Notes,Study,Low,2026-10-01 18:00,2026-10-03,Completed,2026-10-01 20:00
+6,Buy Groceries,Personal,Medium,2026-10-02 17:00,2026-10-02,Completed,2026-10-02 18:15
+7,Prepare Presentation,Project,High,2026-10-02 14:00,2026-10-06,Pending,
+8,Email Report,Work,Low,2026-10-03 09:00,2026-10-03,Completed,2026-10-03 10:30
+9,JavaScript Practice,Study,High,2026-10-03 10:00,2026-10-04,Completed,2026-10-03 13:00
+10,Database Assignment,Study,Medium,2026-10-03 11:00,2026-10-06,Pending,
+11,Client Discussion,Work,High,2026-10-03 14:00,2026-10-03,Completed,2026-10-03 15:30
+12,Morning Walk,Health,Low,2026-10-04 06:30,2026-10-04,Completed,2026-10-04 07:15
+13,Project Documentation,Project,High,2026-10-04 12:00,2026-10-08,Pending,
+14,Clean Room,Personal,Low,2026-10-04 16:00,2026-10-04,Completed,2026-10-04 17:00
+15,Operating System Notes,Study,Medium,2026-10-05 09:00,2026-10-07,Completed,2026-10-05 11:30
+16,Team Presentation,Work,High,2026-10-05 13:00,2026-10-08,Pending,
+17,Evening Exercise,Health,Medium,2026-10-05 18:00,2026-10-05,Completed,2026-10-05 19:00
+18,Website Design,Project,High,2026-10-06 10:00,2026-10-10,Pending,
+19,Shopping,Personal,Medium,2026-10-06 17:00,2026-10-06,Completed,2026-10-06 18:30
+20,CN Viva Preparation,Study,High,2026-10-07 15:00,2026-10-09,Completed,2026-10-07 18:00
